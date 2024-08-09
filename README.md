@@ -1,8 +1,6 @@
-# e1, e4 & e6 players resolver
+# ⚠️ This resolver is no longer maintained ⚠️
+### See https://github.com/movie-cat/providers for maintained scraping logic
 Resolver written in python :)
-
-### This resolver is broken! :(
-This is not working, I intend to release a repo in future which will be able to scrape these sites.
 
 ### Supports:
 - megacloud.tv's [e1-player](https://megacloud.tv/js/player/a/prod/e1-player.min.js)
